@@ -1,0 +1,6 @@
+#we can ignore node modules because we dont need to  track to others people changenges
+node_modules
+.vscode
+
+#we need to protect private_key and private_key_id
+credentials.js
